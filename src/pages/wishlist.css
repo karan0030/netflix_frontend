@@ -1,0 +1,16 @@
+.contain {
+    
+    padding-left: 600px;
+    color: crimson;
+  
+}
+.contain{
+    position: absolute;
+    margin-top: 100px;
+   
+}
+.mcard{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 80px;
+}
