@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+## live @https://shielded-river-61213.herokuapp.com/
 ## Backend @https://github.com/karan0030/netflix_backend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
